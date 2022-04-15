@@ -1,3 +1,4 @@
 DB 종류 설명
 
-> new.xlsx : 명화 데이터베이스 (엑셀 링크 속 이미지 한번에 다운받는거 해야됨)
+> new.xlsx : 명화 데이터베이스 (엑셀 링크 속 이미지 일괄 다운로드 필요 -> https://diy-dev-design.tistory.com/141 )
+> cross-era_annotations.csv : 음악가 데이터베이스 (데이터 일괄 수정 필요)
