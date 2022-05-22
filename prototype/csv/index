@@ -1,1 +1,3 @@
-csv
+user.csv : 유저
+masterpiece.csv : 명화
+grade.csv : 평점
