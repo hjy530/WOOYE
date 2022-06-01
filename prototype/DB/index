@@ -1,1 +1,9 @@
-프로토타입 디비
+프로토타입 웹 디비
+
+[테이블]
+- member
+- board_post
+- board_category
+- board_comment
+- board_comment_category
+- board_post_like
